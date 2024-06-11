@@ -1,0 +1,4 @@
+db.sqlite3
+api/__pycache__
+street_management_mgt_system/__pycache__
+api/media
